@@ -915,7 +915,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "yew-app"
+name = "yew-app-bounce"
 version = "0.1.0"
 dependencies = [
  "bounce",
